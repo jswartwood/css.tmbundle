@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-moz-box-shadow:${1: inset} ${2:0} ${3:0} ${4:3px} ${5:rgba(0, 0, 0, .8)};
+-webkit-box-shadow:${1} ${2} ${3} ${4} ${5};
+box-shadow:${1} ${2} ${3} ${4} ${5};$0</string>
+	<key>name</key>
+	<string>box-shadow: ...</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>box-shadow</string>
+	<key>uuid</key>
+	<string>E9996A38-CB96-4F33-AF81-01273BC53132</string>
+</dict>
+</plist>
