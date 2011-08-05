@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-moz-border-radius:${1:3px} ${2:3px} ${3:3px} ${4:3px};
--webkit-border-radius:${1:3px} ${2:3px} ${3:3px} ${4:3px};
-border-radius:${1:3px} ${2:3px} ${3:3px} ${4:3px};$0</string>
+	<string>-moz-border-radius: ${1:3px} ${2:3px} ${3:3px} ${4:3px};
+-webkit-border-radius: ${1:3px} ${2:3px} ${3:3px} ${4:3px};
+border-radius: ${1:3px} ${2:3px} ${3:3px} ${4:3px};$0</string>
 	<key>name</key>
 	<string>border-radius: ...</string>
 	<key>scope</key>
