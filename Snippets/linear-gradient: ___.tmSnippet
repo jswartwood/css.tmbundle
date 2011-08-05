@@ -4,10 +4,10 @@
 <dict>
 	<key>content</key>
 	<string>background:${1: rgba(0, 0, 0, 0)} -moz-linear-gradient(${2:top}, ${3:rgba(105, 100, 77, .9)}, ${4:rgba(63, 62, 57, .9)});
-background: ${1} -webkit-linear-gradient(${2}, ${3}, ${4});
-background: ${1} -o-linear-gradient(${2}, ${3}, ${4});
-background: ${1} -ms-linear-gradient(${2}, ${3}, ${4});
-background: ${1} linear-gradient(${2}, ${3}, ${4});$0</string>
+background:${1} -webkit-linear-gradient(${2}, ${3}, ${4});
+background:${1} -o-linear-gradient(${2}, ${3}, ${4});
+background:${1} -ms-linear-gradient(${2}, ${3}, ${4});
+background:${1} linear-gradient(${2}, ${3}, ${4});$0</string>
 	<key>name</key>
 	<string>linear-gradient: ...</string>
 	<key>scope</key>
